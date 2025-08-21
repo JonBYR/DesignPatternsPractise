@@ -1,0 +1,15 @@
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.exe
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.deps.json
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.runtimeconfig.json
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.dll
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.pdb
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.sourcelink.json
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.dll
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\obj\Debug\net8.0\refint\DesignPatterns.dll
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.genruntimeconfig.cache
+D:\Github\DesignPatternsPractise\DesignPatterns\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
