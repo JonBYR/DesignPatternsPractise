@@ -1,7 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using DesignPatterns.Iterator;
 using DesignPatterns.Memento;
 
 Console.WriteLine("Hello, World!");
+/*
 History history = new History();
 Document document = new Document("Hello World", "Arial", 12);
 history.push(new DocumentState(document.getContent(), document.getFontName(), document.getFontSize()));
@@ -14,3 +16,16 @@ document.setFontName("Courier New");
 document.setFontSize(16);
 document.undo(history.pop());
 Console.WriteLine(document.getContent());
+*/
+/*
+BrowseHistory history = new BrowseHistory();
+history.Push("https://google.com");
+history.Push("https://github.com");
+history.Push("https://stackoverflow.com");
+Iteartor<string> iterator = history.createIterator();
+while (iterator.HasNext())
+{
+    Console.WriteLine(iterator.Current());
+    iterator.Next();
+}
+*/
