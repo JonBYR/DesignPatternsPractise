@@ -1,7 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using DesignPatterns.Iterator;
 using DesignPatterns.Memento;
-
+using DesignPatterns.ChainOfResponsibility;
+using DesignPatterns.Builder;
 Console.WriteLine("Hello, World!");
 /*
 History history = new History();
@@ -29,3 +30,15 @@ while (iterator.HasNext())
     iterator.Next();
 }
 */
+/*
+var logger = new Logger(null); //last element of linked list in chain of command
+var compressor = new Compressor(logger);
+var authenticator = new Authenticator(compressor);
+var server = new Server(authenticator);
+var request = new HttpRequest("admin", "password");
+server.handle(request);
+*/
+Presentation present = new Presentation();
+PdfBuilder builder = new PdfBuilder();
+present.export(builder);
+var pdf = builder.getPdfdocument();
